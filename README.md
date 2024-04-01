@@ -14,14 +14,14 @@
 </div>
 
 # Development Time
-> **Design Concept and Create Architecture: 2024.03.28. ~ 2024.03.30.** <br>
-> **Computation: 2024.03.30. ~ 2024.04.01.**
+> **Design Concept and Create Architecture:** 2024.03.28. ~ 2024.03.30. <br>
+> **Computation:** 2024.03.30. ~ 2024.04.01.
 
 
 ## Live Demo
 
-> **First Proto** : [https://hannah-moon.github.io/17_SBA_316_theDocumentObjectModel/) <br>
-> **Rendered Proto** : [)<br>
+> **First Trial** : https://hannah-moon.github.io/17_SBA_316_theDocumentObjectModel <br>
+> **Rendered Proto** : TBA
 
 ## Designer and Developer
 
