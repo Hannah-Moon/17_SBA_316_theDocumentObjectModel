@@ -36,38 +36,49 @@ function generateID() {
     return Math.floor(Math.random() * 100000000);
 }
 
-// Add transactions to DOM list
+// This function adds a transaction to the DOM (Document Object Model)
 function addTransactionDOM(transaction) {
-    // Get sign
+    // Get the sign of the transaction amount, if it's less than 0, the sign is '-', otherwise it's '+'
     const sign = transaction.amount < 0 ? '-' : '+';
+    // Create a new list item element
     const item = document.createElement('li');
-    // Add class based on value
+    // Add a class to the list item based on the value of the transaction amount. If it's negative, add class 'minus', otherwise add class 'plus'
     item.classList.add(transaction.amount < 0 ? 'minus' : 'plus');
+    // Set the inner HTML content of the list item element
     item.innerHTML = `
     ${transaction.text} <span>${sign}${Math.abs(
         transaction.amount
     )}</span> <button class="delete-btn" onclick="removeTransaction(${transaction.id
         })">x</button>
   `;
+    // Append the list item element to the list (assumed to be declared elsewhere in the code as 'list')
     list.appendChild(item);
 }
 
-// Update the balance, income and expense
+// This function updates the balance, income, and expense displayed on the webpage
 function updateValues() {
+    // Extracts all transaction amounts from the transactions array
     const amounts = transactions.map(transaction => transaction.amount);
+    // Calculates the total balance by summing up all transaction amounts
     const total = amounts.reduce((acc, item) => (acc += item), 0).toFixed(2);
+    // Calculates the total income by summing up all positive transaction amounts
     const income = amounts
         .filter(item => item > 0)
         .reduce((acc, item) => (acc += item), 0)
         .toFixed(2);
+    // Calculates the total expenses by summing up all negative transaction amounts
     const expense = (
         amounts.filter(item => item < 0).reduce((acc, item) => (acc += item), 0) *
         -1
     ).toFixed(2);
+    // Updates the balance element on the webpage with the calculated total
     balance.innerText = `$${total}`;
+    // Updates the income element on the webpage with the calculated income
     money_plus.innerText = `$${income}`;
+    // Updates the expense element on the webpage with the calculated expense
     money_minus.innerText = `$${expense}`;
 }
+
 
 // Remove transaction by ID
 function removeTransaction(id) {
