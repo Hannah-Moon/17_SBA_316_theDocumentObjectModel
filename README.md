@@ -83,8 +83,8 @@ I used,
 ---
 ## Reflection 🔎
 
-| Question                                                | Answer                                                                                                                      |
-| --------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------- | 
+| Question   | Answer                            |
+| -----------| --------------------------------- | 
 | 1. What could you have done differently during the planning stages of your project to make the execution easier? | During planning, too much time was spent on product design to ensure a solid concept, leaving not enough time for coding. This caused delays and may have affected the project's progress. | 
 | 2. Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects? | Meeting all requirements was tough. But I followed my instructors' advice to focus on making the code work first and then refine it. Breaking tasks into smaller steps helped me reach my goals consistently.|
 | 3. What would you add to, or change about your application if given more time? | Time management is really important for getting things done. Looking back, I see that I need to be better at managing my time. I'm going to improve by planning out my time more carefully. This means setting clear schedules for each part of the project, like designing, coding, testing, and making changes. I'll also make sure to be flexible and adjust my plans if needed. With better time management, I believe I can make progress on the project more smoothly. |
