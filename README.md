@@ -1,7 +1,7 @@
 # SBA_316_the Document Object Model: TOMGET - Personalized Expense Tracker
 
 <div align="center">
-<img width="329" alt="image" src="assets/productIntroduction.png">
+<img width="700" alt="image" src="assets/productIntroduction.png">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
@@ -16,7 +16,7 @@
 ## Live Demo
 
 > **First Proto** : [) <br>
-> **Rendered Proto** : [http://voluntain.cs.skku.edu:33307/](http://voluntain.cs.skku.edu:33307/)<br>
+> **Rendered Proto** : [)<br>
 
 ## Designer and Developer
 
