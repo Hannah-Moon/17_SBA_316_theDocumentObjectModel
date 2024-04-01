@@ -1,4 +1,10 @@
-# SBA_316_the Document Object Model: <br> TOMGET - Personalized Expense Tracker
+<h2 align="center">
+  SBA_316_the Document Object Model: <br/>
+</h2>
+
+<h3 align="center">
+  TOMGET - Personalized Expense Tracker
+</h3>
 
 <div align="center">
 <img width="700" alt="image" src="assets/productIntroduction.png">
