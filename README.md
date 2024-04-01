@@ -1,7 +1,7 @@
 # SBA_316_the Document Object Model: TOMGET - Personalized Expense Tracker
 
 <div align="center">
-<img width="329" alt="image" src="">
+<img width="329" alt="image" src="assets/productIntroduction.png">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
@@ -22,16 +22,16 @@
 
 |      Hannah Moon       |                                                                                                                        
 | :------------------------------------------------------------------------------: |  
-|   <img width="160px" src="assets/hannah.jpeg" />    |  
+|   <img width="160px" src="assets/Hannah.jpeg"/>    |  
 |   [@Hannah-Moon](https://github.com/Hannah-Moon)   |   
 
 ## Project Inspiration
 
-In the midst of my journey to financial independence, Tom emerged as a guiding light to build my financial stability. He stepped in to offer financial counseling. His invaluable support and mentorship helped me to get through rigorous training as well as navigate financial obstacles on my path to being an engineer. Without doubt, his steadfast encouragement propelled me forward.
+In the midst of my journey to financial independence, Tom emerged as a guiding light to build my financial stability. He stepped in to offer financial counseling. His invaluable support and mentorship helped me to get through rigorous training and navigate financial obstacles on my path to becoming an engineer. Without a doubt, his steadfast encouragement propelled me forward.
 
 I was inspired by his dedication to empowering others, particularly through financial stewardship and dedicated work. To commemorate his support, I designed 'TOMGET'—an AI-backed budgeting app crafted to aid individuals like myself in achieving financial stability and freedom.
 
-Tom.Get supports a journey of growth and resilience, guided by Tom's wisdom and support.
+Tom.Get support on a journey of growth and resilience, guided by Tom's wisdom and support.
 
 
 ## Project Overview
@@ -52,24 +52,27 @@ I used,
 ## Screen Design 📺
 | Loading  |  Default   |
 | :-------------------------------------------: | :------------: |
-|  <img width="329" src=""/> |  <img width="329" src=""/>|  
+|  <img width="329" src="assets/loading.png"/> |  <img width="329" src="assets/Default.png"/>|  
 | Modal   |  Activated  |  
-| <img width="329" src=""/>   |  <img width="329" src=""/>     |
+| <img width="329" src="assets/modal.png"/>   |  <img width="329" src="assets/activated.png"/>     |
 
 ---
 ## Key Feature 📦
 
 ### ⭐️ Auto Caculator 
-- Calculate culumated income and expense 
+- Calculate culminated income and expense 
 - Calculate real-time balance
 
 ### ⭐️ Chart
-- Display visually comparible bar chart for each month
+- Display visually comparable bar chart for each month
 
 ### ⭐️ Supporting Aid
 - Live agent connection tool 
 
 ---
-## Design Process
+## Information Architecture
+<img width="600" src="assets/experienceArchitecture.png"/>
 
 ### Wireframe
+<img width="600" src="assets/wireframe.png"/>
+
