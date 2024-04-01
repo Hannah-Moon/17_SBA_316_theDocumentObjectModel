@@ -1,5 +1,5 @@
 <h2 align="center">
-  SBA_316_the Document Object Model: <br/>
+  SBA_316_the Document Object Model <br/>
 </h2>
 
 <h3 align="center">
