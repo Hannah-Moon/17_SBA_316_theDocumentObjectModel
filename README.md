@@ -9,7 +9,7 @@
 </div>
 
 # Development Time
-> **Design Concept and Create Architecture: 2024.03.28. ~ 2024.03.30.**
+> **Design Concept and Create Architecture: 2024.03.28. ~ 2024.03.30.** <br>
 > **Computation: 2024.03.30. ~ 2024.04.01.**
 
 
@@ -70,9 +70,14 @@ I used,
 - Live agent connection tool 
 
 ---
-## Information Architecture
+## Design Process 🖌️
+
+### Information Architecture
 <img width="600" src="assets/experienceArchitecture.png"/>
 
 ### Wireframe
 <img width="600" src="assets/wireframe.png"/>
+
+---
+## Reflection 🔎
 
