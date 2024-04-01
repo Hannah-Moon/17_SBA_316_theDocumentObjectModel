@@ -39,9 +39,8 @@ I was inspired by his dedication to empowering others, particularly through fina
 'TOMGET' support on a journey of growth and resilience, guided by Tom's wisdom and support.
 
 
-## Project Overview
-### Web Development Tool kits
-I used,
+## Tools 🛠️
+
 ---
 ### Environment
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
