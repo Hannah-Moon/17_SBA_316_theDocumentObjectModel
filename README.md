@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-> **First Proto** : [) <br>
+> **First Proto** : [https://hannah-moon.github.io/17_SBA_316_theDocumentObjectModel/) <br>
 > **Rendered Proto** : [)<br>
 
 ## Designer and Developer
