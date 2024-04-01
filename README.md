@@ -31,7 +31,7 @@ In the midst of my journey to financial independence, Tom emerged as a guiding l
 
 I was inspired by his dedication to empowering others, particularly through financial stewardship and dedicated work. To commemorate his support, I designed 'TOMGET'—an AI-backed budgeting app crafted to aid individuals like myself in achieving financial stability and freedom.
 
-Tom.Get support on a journey of growth and resilience, guided by Tom's wisdom and support.
+'TOMGET' support on a journey of growth and resilience, guided by Tom's wisdom and support.
 
 
 ## Project Overview
@@ -45,6 +45,8 @@ I used,
 
 ### Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 
@@ -80,4 +82,15 @@ I used,
 
 ---
 ## Reflection 🔎
+```bash
+├── Q1: What could you have done differently during the planning stages of your project to make the execution easier?  
+│   └── A1: During planning, too much time was spent on product design to ensure a solid concept, leaving not enough time for coding. This caused delays and may have affected the project's progress.
+├── Q2: Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects?     
+│    └── A2: Meeting all requirements was tough. But I followed my instructors' advice to focus on making the code work first and then refine it. Breaking tasks into smaller steps helped me reach my goals consistently.
+├── Q3: What would you add to, or change about your application if given more time?   
+│    └── A3: Time management is really important for getting things done. Looking back, I see that I need to be better at managing my time. I'm going to improve by planning out my time more carefully. This means setting clear schedules for each part of the project, like designing, coding, testing, and making changes. I'll also make sure to be flexible and adjust my plans if needed. With better time management, I believe I can make progress on the project more smoothly.
+└── Q4: Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again: 
+    └── A4: Let's not get too carried away with big ideas. Remember, you only have two full days to finish these tasks, and you've got other things in your life to handle too. It's important to use your time wisely and stay realistic about what you can achieve.
+
+```
 
