@@ -93,4 +93,7 @@ I used,
     └── A4: Let's not get too carried away with big ideas. Remember, you only have two full days to finish these tasks, and you've got other things in your life to handle too. It's important to use your time wisely and stay realistic about what you can achieve.
 
 ```
+| Question                                                | Answer                                                                                                                      |
+| --------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------- | 
+| What could you have done differently during the planning stages of your project to make the execution easier?           | During planning, too much time was spent on product design to ensure a solid concept, leaving not enough time for coding. This caused delays and may have affected the project's progress.                              | 
 
