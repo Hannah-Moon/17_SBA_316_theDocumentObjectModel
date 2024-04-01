@@ -78,6 +78,7 @@ I used,
 
 ---
 ## Design Process 🖌️
+The design was created in Figma.
 
 ### Information Architecture
 <img width="600" src="assets/experienceArchitecture.png"/>
