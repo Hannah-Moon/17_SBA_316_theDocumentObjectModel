@@ -13,7 +13,7 @@
 
 </div>
 
-# Development Time
+## Development Time
 > **Design Concept and Create Architecture:** 2024.03.28. ~ 2024.03.30. <br>
 > **Computation:** 2024.03.30. ~ 2024.04.01.
 
@@ -23,12 +23,14 @@
 > **First Trial** : https://hannah-moon.github.io/17_SBA_316_theDocumentObjectModel <br>
 > **Rendered Proto** : TBA
 
+
 ## Designer and Developer
 
 |      Hannah Moon       |                                                                                                                        
 | :------------------------------------------------------------------------------: |  
 |   <img width="160px" src="assets/Hannah.jpeg"/>    |  
 |   [@Hannah-Moon](https://github.com/Hannah-Moon)   |   
+
 
 ## Project Inspiration
 
@@ -38,10 +40,10 @@ I was inspired by his dedication to empowering others, particularly through fina
 
 'TOMGET' support on a journey of growth and resilience, guided by Tom's wisdom and support.
 
-
+---
 ## Tools 🛠️
 
----
+
 ### Environment
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
