@@ -82,7 +82,6 @@ I used,
 
 ---
 ## Reflection 🔎
-```bash
 
 | Question                                                | Answer                                                                                                                      |
 | --------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------- | 
@@ -90,8 +89,3 @@ I used,
 | 2. Were there any requirements that were difficult to implement? What do you think would make them easier to implement in future projects? | Meeting all requirements was tough. But I followed my instructors' advice to focus on making the code work first and then refine it. Breaking tasks into smaller steps helped me reach my goals consistently.|
 | 3. What would you add to, or change about your application if given more time? | Time management is really important for getting things done. Looking back, I see that I need to be better at managing my time. I'm going to improve by planning out my time more carefully. This means setting clear schedules for each part of the project, like designing, coding, testing, and making changes. I'll also make sure to be flexible and adjust my plans if needed. With better time management, I believe I can make progress on the project more smoothly. |
 | 4. Use this space to make notes for your future self about anything that you think is important to remember about this process, or that may aid you when attempting something similar again? | Let's not get too carried away with big ideas. Remember, you only have two full days to finish these tasks, and you've got other things in your life to handle too. It's important to use your time wisely and stay realistic about what you can achieve. |
-
-
-
-```
-
