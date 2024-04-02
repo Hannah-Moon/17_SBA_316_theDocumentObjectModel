@@ -87,6 +87,9 @@ The design was created in Figma.
 ### Wireframe
 <img width="600" src="assets/wireframe.png"/>
 
+### Screen Mapping
+<img width="600" src="assets/screenMapping"/>
+
 ---
 ## Reflection 🔎
 
