@@ -36,7 +36,7 @@
 
 In the midst of my journey to financial independence, Tom stepped in to offer financial counseling as a guiding light to build my financial stability. Without a doubt, his steadfast encouragement propelled me forward. His invaluable support and mentorship helped me to get through rigorous training and navigate financial obstacles on my path to becoming a software engineer. 
 
-I was inspired by his dedication to empowering others, particularly through financial stewardship and dedicated work. To commemorate his support, I designed 'TOMGET'—an AI-backed budgeting app crafted to aid individuals like myself in achieving financial stability and freedom.
+I was inspired by his dedication to empowering others, particularly through financial stewardship and dedicated work. To commemorate his support, I designed 'TOMGET'—a budgeting app crafted to aid individuals like myself in achieving financial stability and freedom.
 
 'TOMGET' support on a journey of growth and resilience, guided by Tom's wisdom and support.
 
@@ -86,6 +86,9 @@ The design was created in Figma.
 
 ### Wireframe
 <img width="600" src="assets/wireframe.png"/>
+
+### Screen Mapping
+<img width="600" src="assets/screenMapping.png"/>
 
 ---
 ## Reflection 🔎
